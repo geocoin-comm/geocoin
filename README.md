@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-GeoCoin
+GeoCoin v.0.8.7
 ================================
 A QUBIT ALGO CRYPTOCOIN!
 
